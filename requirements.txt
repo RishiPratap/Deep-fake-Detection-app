@@ -3,3 +3,4 @@ numpy>=1.22.3
 Pillow>=8.3.0
 streamlit==1.12.2
 tensorflow==2.16.1
+altair<5
